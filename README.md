@@ -6,6 +6,8 @@ Make  sure to install the library first by running following commands in your VS
 <- pip install tkinter ->
 <- pip install customtkinter ->
 <- pip install pillow ->
+<- pip install wifiqr ->
+<- pip install qrcode[pil] wifiqr ->
 
 
 
