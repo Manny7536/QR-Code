@@ -57,3 +57,6 @@ qr_code_label.pack(pady=20)
 
 # Run the application
 root.mainloop()
+
+
+#thank you 
